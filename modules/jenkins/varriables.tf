@@ -9,5 +9,4 @@ variable "key_path" {
 
 variable "vpc_id" {
   type    = string
-  default = "vpc-046b110243b2fc920"
 }
